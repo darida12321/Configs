@@ -1,0 +1,14 @@
+#!/bin/bash
+
+CURR_LANG="$(setxkbmap -print | grep xkb_symbols | awk '{print $4}' | awk -F"+" '{print $2}')"
+GB="gb"
+HU="hu"
+
+if [ $CURR_LANG == $GB ]
+then
+	setxkbmap hu
+    notify-send 'HU keyboard'
+else
+    setxkbmap gb
+    notify-send 'EN keyboard'
+fi

@@ -1,0 +1,13 @@
+#!/usr/bin/perl
+my $light;
+
+$light = '';
+$light .= `light -G`;
+$light = substr($light, 0, -4);
+$light .= '%';
+
+print $light;
+
+exit(0);
+
+
