@@ -1,0 +1,65 @@
+htop -- memory, processor checker
+
+zsh per word skip
+
+Rager:
+
+GENERAL:
+interview preparation
+numpy
+jupyter setup
+book on metaprogramming
+loki download, use, check
+modern lectures
+
+how to mock a mockingbird (lambda calculus book)
+
+lambda calculus inside functors
+binary list multithreading for smart pointers
+factory method type id singleton generator
+abstract factory unique creation method for each type
+
+
+obsidian:
+makefile to obsidian
+copy previous notes
+
+
+vim:
+auto copy to clipboard
+disable highlight on "o" command, and when nothing was found
+todo highlighting better (file, not over)
+terminal on bottom
+git (fugitive.vim)
+jump around parameter to parameter vscode complete
+linting
+
+nvim-tree learn shortcuts (play around)
+vim surround (play around)
+
+learn lua ???
+
+
+obsidian: 
+Take another look
+vim shortcuts all around
+snippets
+
+
+
+Qutebrowser
+color scheme
+look at greesemonkey
+youtube ad blocker
+
+i30:
+always split in correct direction
+BLUETOOTH
+battery life
+waaaay better look at rofi app runner
+
+
+Portfolio:
+Add SQL to personal website
+
+
